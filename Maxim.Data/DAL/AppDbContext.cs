@@ -17,7 +17,7 @@ namespace Maxim.Data.DAL
         }
 
         public DbSet<Service> Services { get; set; }
-
+        public DbSet<Worker> Workers { get; set; } 
         public DbSet<AppUser> Userss { get; set; }
         public DbSet<Setting> Settings { get; set; } 
 

@@ -7745,6 +7745,22 @@
       "PackagePath": "staticwebassets\\uploads\\services\\ff63247a-e4d8-436b-b16d-a7ad74eed0b8.png"
     },
     {
+      "Id": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\wwwroot\\uploads\\workers\\2b05f7b1-73df-4811-a7bb-a61e70ad4b7c.png",
+      "PackagePath": "staticwebassets\\uploads\\workers\\2b05f7b1-73df-4811-a7bb-a61e70ad4b7c.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\wwwroot\\uploads\\workers\\597cc74f-c4be-406c-b226-c47d0d85d83f.png",
+      "PackagePath": "staticwebassets\\uploads\\workers\\597cc74f-c4be-406c-b226-c47d0d85d83f.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\wwwroot\\uploads\\workers\\6f02e310-ef53-4868-892b-3bb38e9c7534.png",
+      "PackagePath": "staticwebassets\\uploads\\workers\\6f02e310-ef53-4868-892b-3bb38e9c7534.png"
+    },
+    {
+      "Id": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\wwwroot\\uploads\\workers\\d76e2316-aa02-4654-be22-15cdaadbffdc.png",
+      "PackagePath": "staticwebassets\\uploads\\workers\\d76e2316-aa02-4654-be22-15cdaadbffdc.png"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Maxim.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

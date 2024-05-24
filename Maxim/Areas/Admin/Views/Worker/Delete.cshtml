@@ -1,0 +1,22 @@
+﻿@using Maxim.Core.Models
+@model Worker
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+            <form method="post" asp-action="DeletePost">
+                <div class="card" style="width: 18rem;">
+                    <img class="card-img-top" src="~/uploads/workers/@Model.ImageUrl" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title">@Model.FullName</h5>
+                        <p class="card-text">@Model.Specialty</p>
+                        <input asp-for="@Model.Id" hidden value="@Model.Id" />
+                        <a asp-action="Index" class="btn btn-info">Go Back</a>
+                        <button type="submit" class="btn btn-danger">Delete</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

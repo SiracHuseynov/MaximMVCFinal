@@ -1,5 +1,6 @@
 using Maxim.Business.Services.Abstracts;
 using Maxim.Business.Services.Concretes;
+using Maxim.Business.Workers.Abstracts;
 using Maxim.Core.Models;
 using Maxim.Core.RepositoryAbstracts;
 using Maxim.Data.DAL;
@@ -39,6 +40,9 @@ namespace Maxim
             builder.Services.AddScoped<IServiceRepository, ServiceRepository>();
             builder.Services.AddScoped<IServiceService, ServiceService>();
 
+            builder.Services.AddScoped<IWorkerRepository, WorkerRepository>();
+            builder.Services.AddScoped<IWorkerService, WorkerService>();    
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -49,6 +53,8 @@ namespace Maxim
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
