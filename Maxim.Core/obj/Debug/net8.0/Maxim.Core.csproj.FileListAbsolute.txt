@@ -1,0 +1,11 @@
+C:\Users\ca.r213.15\Desktop\SiracHuseynov\Maxim\Maxim.Core\bin\Debug\net8.0\Maxim.Core.deps.json
+C:\Users\ca.r213.15\Desktop\SiracHuseynov\Maxim\Maxim.Core\bin\Debug\net8.0\Maxim.Core.dll
+C:\Users\ca.r213.15\Desktop\SiracHuseynov\Maxim\Maxim.Core\bin\Debug\net8.0\Maxim.Core.pdb
+C:\Users\ca.r213.15\Desktop\SiracHuseynov\Maxim\Maxim.Core\obj\Debug\net8.0\Maxim.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ca.r213.15\Desktop\SiracHuseynov\Maxim\Maxim.Core\obj\Debug\net8.0\Maxim.Core.AssemblyInfoInputs.cache
+C:\Users\ca.r213.15\Desktop\SiracHuseynov\Maxim\Maxim.Core\obj\Debug\net8.0\Maxim.Core.AssemblyInfo.cs
+C:\Users\ca.r213.15\Desktop\SiracHuseynov\Maxim\Maxim.Core\obj\Debug\net8.0\Maxim.Core.csproj.CoreCompileInputs.cache
+C:\Users\ca.r213.15\Desktop\SiracHuseynov\Maxim\Maxim.Core\obj\Debug\net8.0\Maxim.Core.dll
+C:\Users\ca.r213.15\Desktop\SiracHuseynov\Maxim\Maxim.Core\obj\Debug\net8.0\refint\Maxim.Core.dll
+C:\Users\ca.r213.15\Desktop\SiracHuseynov\Maxim\Maxim.Core\obj\Debug\net8.0\Maxim.Core.pdb
+C:\Users\ca.r213.15\Desktop\SiracHuseynov\Maxim\Maxim.Core\obj\Debug\net8.0\ref\Maxim.Core.dll
