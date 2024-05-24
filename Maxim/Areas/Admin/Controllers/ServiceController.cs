@@ -17,10 +17,22 @@ namespace Maxim.Areas.Admin.Controllers
             _serviceService = serviceService;
         }
 
-        public IActionResult Index()
+        //public IActionResult Index()
+        //{
+        //    var services = _serviceService.GetAllServices();
+        //    return View(services);
+        //}
+
+        public async Task<IActionResult> Index(int pageIndex = 1, int pageSize = 2)
         {
-            var services = _serviceService.GetAllServices();
-            return View(services);
+            if(pageIndex <= 0 || pageSize <= 0)
+            {
+				var paginatedServices = await _serviceService.GetPaginatedServiceAsync(pageIndex = 1, pageSize = 2);
+				return View(paginatedServices);
+			} 
+
+            var paginatedService = await _serviceService.GetPaginatedServiceAsync(pageIndex, pageSize);
+            return View(paginatedService);
         }
 
         public IActionResult Create()

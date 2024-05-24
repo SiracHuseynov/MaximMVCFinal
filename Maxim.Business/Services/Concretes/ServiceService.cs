@@ -9,6 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using X.PagedList;
 
 namespace Maxim.Business.Services.Concretes
 {
@@ -49,6 +50,11 @@ namespace Maxim.Business.Services.Concretes
 		public List<Service> GetAllServices(Func<Service, bool>? func = null)
 		{
 			return _serviceRepository.GetAll(func);
+		}
+
+		public async Task<IPagedList<Service>> GetPaginatedServiceAsync(int pageIndex, int pageSize)
+		{
+			return await _serviceRepository.GetPaginatedServiceAsync(pageIndex, pageSize);
 		}
 
 		public Service GetService(Func<Service, bool>? func = null)

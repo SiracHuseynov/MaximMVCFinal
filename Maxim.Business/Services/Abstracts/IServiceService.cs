@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using X.PagedList;
 
 namespace Maxim.Business.Services.Abstracts
 {
@@ -14,6 +15,7 @@ namespace Maxim.Business.Services.Abstracts
 		void UpdateService(int id, Service newService);
 		Service GetService(Func<Service, bool>? func = null);
 		List<Service> GetAllServices(Func<Service, bool>? func = null);
+		Task<IPagedList<Service>> GetPaginatedServiceAsync(int pageIndex, int pageSize);
 
 
 	}

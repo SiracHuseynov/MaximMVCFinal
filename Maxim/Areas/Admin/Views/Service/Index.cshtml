@@ -1,5 +1,7 @@
 ﻿@using Maxim.Core.Models
-@model List<Service>
+@using X.PagedList
+@using X.PagedList.Mvc.Core
+@model IPagedList<Service>
 
 @{
     int counter = 1;
@@ -24,14 +26,14 @@
                     </tr>
                 </thead>
                 <tbody>
-                    @foreach(var item in Model)
+                    @foreach (var item in Model)
                     {
                         <tr>
                             <th scope="row">@(counter++)</th>
                             <td>@item.Id</td>
                             <td>@item.Title</td>
                             <td>@item.Description</td>
-                            <td><img src="~/uploads/services/@item.ImageUrl" height="100"/></td>
+                            <td><img src="~/uploads/services/@item.ImageUrl" height="100" /></td>
                             <td>
                                 <a asp-action="Update" asp-route-id="@item.Id" class="btn btn-outline-warning">Update</a>
                                 <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-outline-danger">Delete</a>
@@ -40,6 +42,14 @@
                     }
                 </tbody>
             </table>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="pagination-container">
+            @Html.PagedListPager(Model, page => Url.Action("Index", new { pageIndex = page, pageSize = Model.PageSize }));
         </div>
     </div>
 </div>

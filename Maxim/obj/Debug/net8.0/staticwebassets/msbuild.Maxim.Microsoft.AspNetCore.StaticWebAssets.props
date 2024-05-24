@@ -30864,12 +30864,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\tweet\index.php))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\services\29d379ec-8e36-4b0c-bbb2-d1143ee45aab.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\services\1e9bc76f-3865-435d-becb-383d3260d5b4.png))">
       <SourceType>Package</SourceType>
       <SourceId>Maxim</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Maxim</BasePath>
-      <RelativePath>uploads/services/29d379ec-8e36-4b0c-bbb2-d1143ee45aab.png</RelativePath>
+      <RelativePath>uploads/services/1e9bc76f-3865-435d-becb-383d3260d5b4.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -30878,14 +30878,14 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\services\29d379ec-8e36-4b0c-bbb2-d1143ee45aab.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\services\1e9bc76f-3865-435d-becb-383d3260d5b4.png))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\services\91d31ba5-c4ac-4353-a4d9-43259095c819.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\services\211ea685-5fd8-490c-a739-fbf466df0f48.png))">
       <SourceType>Package</SourceType>
       <SourceId>Maxim</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Maxim</BasePath>
-      <RelativePath>uploads/services/91d31ba5-c4ac-4353-a4d9-43259095c819.png</RelativePath>
+      <RelativePath>uploads/services/211ea685-5fd8-490c-a739-fbf466df0f48.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -30894,7 +30894,7 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\services\91d31ba5-c4ac-4353-a4d9-43259095c819.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\services\211ea685-5fd8-490c-a739-fbf466df0f48.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\services\bc9408ba-421d-4f60-be5c-1bd45bc3af00.png))">
       <SourceType>Package</SourceType>
@@ -30912,12 +30912,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\services\bc9408ba-421d-4f60-be5c-1bd45bc3af00.png))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\services\c879f93a-7561-4f0b-aad4-f51b913f9973.png))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\services\cb54bf7a-1c7a-44b4-b46b-fdfd363d84a3.png))">
       <SourceType>Package</SourceType>
       <SourceId>Maxim</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Maxim</BasePath>
-      <RelativePath>uploads/services/c879f93a-7561-4f0b-aad4-f51b913f9973.png</RelativePath>
+      <RelativePath>uploads/services/cb54bf7a-1c7a-44b4-b46b-fdfd363d84a3.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -30926,7 +30926,23 @@
       <AssetTraitValue></AssetTraitValue>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\services\c879f93a-7561-4f0b-aad4-f51b913f9973.png))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\services\cb54bf7a-1c7a-44b4-b46b-fdfd363d84a3.png))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\services\f1aae6e6-54c8-4a02-a40b-a3e381b95fd9.png))">
+      <SourceType>Package</SourceType>
+      <SourceId>Maxim</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Maxim</BasePath>
+      <RelativePath>uploads/services/f1aae6e6-54c8-4a02-a40b-a3e381b95fd9.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\services\f1aae6e6-54c8-4a02-a40b-a3e381b95fd9.png))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\uploads\services\f21d6d48-5af1-4ca1-b37b-640696594ba1.png))">
       <SourceType>Package</SourceType>

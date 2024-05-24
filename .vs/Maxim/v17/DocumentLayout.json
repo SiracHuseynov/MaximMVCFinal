@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{761EF305-B7F2-4D69-B05B-1B31D554E24C}|Maxim.Core\\Maxim.Core.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim.core\\repositoryabstracts\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{761EF305-B7F2-4D69-B05B-1B31D554E24C}|Maxim.Core\\Maxim.Core.csproj|solutionrelative:maxim.core\\repositoryabstracts\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\Migrations\\20240524070527_CreateSettingsTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Maxim.Data\\Migrations\\20240524070527_CreateSettingsTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|solutionrelative:maxim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0060659C-9FF6-4D98-A947-C296D10AEC30}|Maxim.Data\\Maxim.Data.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0060659C-9FF6-4D98-A947-C296D10AEC30}|Maxim.Data\\Maxim.Data.csproj|solutionrelative:maxim.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761EF305-B7F2-4D69-B05B-1B31D554E24C}|Maxim.Core\\Maxim.Core.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim.core\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761EF305-B7F2-4D69-B05B-1B31D554E24C}|Maxim.Core\\Maxim.Core.csproj|solutionrelative:maxim.core\\models\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AE1A9D-6803-466C-908C-A399731B892A}|Maxim.Business\\Maxim.Business.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim.business\\services\\concretes\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AE1A9D-6803-466C-908C-A399731B892A}|Maxim.Business\\Maxim.Business.csproj|solutionrelative:maxim.business\\services\\concretes\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|solutionrelative:maxim\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16AE1A9D-6803-466C-908C-A399731B892A}|Maxim.Business\\Maxim.Business.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim.business\\services\\abstracts\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16AE1A9D-6803-466C-908C-A399731B892A}|Maxim.Business\\Maxim.Business.csproj|solutionrelative:maxim.business\\services\\abstracts\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0060659C-9FF6-4D98-A947-C296D10AEC30}|Maxim.Data\\Maxim.Data.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim.data\\repositoryconcretes\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0060659C-9FF6-4D98-A947-C296D10AEC30}|Maxim.Data\\Maxim.Data.csproj|solutionrelative:maxim.data\\repositoryconcretes\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|solutionrelative:maxim\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0060659C-9FF6-4D98-A947-C296D10AEC30}|Maxim.Data\\Maxim.Data.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0060659C-9FF6-4D98-A947-C296D10AEC30}|Maxim.Data\\Maxim.Data.csproj|solutionrelative:maxim.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|solutionrelative:maxim\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761EF305-B7F2-4D69-B05B-1B31D554E24C}|Maxim.Core\\Maxim.Core.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim.core\\repositoryabstracts\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761EF305-B7F2-4D69-B05B-1B31D554E24C}|Maxim.Core\\Maxim.Core.csproj|solutionrelative:maxim.core\\repositoryabstracts\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761EF305-B7F2-4D69-B05B-1B31D554E24C}|Maxim.Core\\Maxim.Core.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761EF305-B7F2-4D69-B05B-1B31D554E24C}|Maxim.Core\\Maxim.Core.csproj|solutionrelative:maxim.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|solutionrelative:maxim\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,18 +91,6 @@
       "RelativeMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|solutionrelative:maxim\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0060659C-9FF6-4D98-A947-C296D10AEC30}|Maxim.Data\\Maxim.Data.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim.data\\repositoryconcretes\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0060659C-9FF6-4D98-A947-C296D10AEC30}|Maxim.Data\\Maxim.Data.csproj|solutionrelative:maxim.data\\repositoryconcretes\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0060659C-9FF6-4D98-A947-C296D10AEC30}|Maxim.Data\\Maxim.Data.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0060659C-9FF6-4D98-A947-C296D10AEC30}|Maxim.Data\\Maxim.Data.csproj|solutionrelative:maxim.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|solutionrelative:maxim\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|solutionrelative:maxim\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -75,16 +103,8 @@
       "RelativeMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|solutionrelative:maxim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{761EF305-B7F2-4D69-B05B-1B31D554E24C}|Maxim.Core\\Maxim.Core.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{761EF305-B7F2-4D69-B05B-1B31D554E24C}|Maxim.Core\\Maxim.Core.csproj|solutionrelative:maxim.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim\\viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|solutionrelative:maxim\\viewmodels\\adminloginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0060659C-9FF6-4D98-A947-C296D10AEC30}|Maxim.Data\\Maxim.Data.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0060659C-9FF6-4D98-A947-C296D10AEC30}|Maxim.Data\\Maxim.Data.csproj|solutionrelative:maxim.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\Migrations\\20240524054328_somechanges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,16 +135,8 @@
       "RelativeMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|solutionrelative:maxim\\areas\\admin\\views\\service\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16AE1A9D-6803-466C-908C-A399731B892A}|Maxim.Business\\Maxim.Business.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim.business\\services\\concretes\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AE1A9D-6803-466C-908C-A399731B892A}|Maxim.Business\\Maxim.Business.csproj|solutionrelative:maxim.business\\services\\concretes\\serviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim\\areas\\admin\\views\\service\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|solutionrelative:maxim\\areas\\admin\\views\\service\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{490896DA-BBA8-422B-85D4-6EBB4AC0BC8D}|Maxim\\Maxim.csproj|solutionrelative:maxim\\areas\\admin\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{761EF305-B7F2-4D69-B05B-1B31D554E24C}|Maxim.Core\\Maxim.Core.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim.core\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -175,10 +187,6 @@
       "RelativeMoniker": "D:0:0:{16AE1A9D-6803-466C-908C-A399731B892A}|Maxim.Business\\Maxim.Business.csproj|solutionrelative:maxim.business\\exceptions\\filecontenttypeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16AE1A9D-6803-466C-908C-A399731B892A}|Maxim.Business\\Maxim.Business.csproj|c:\\users\\ca.r213.15\\desktop\\maximmvcfinal\\maxim.business\\services\\abstracts\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16AE1A9D-6803-466C-908C-A399731B892A}|Maxim.Business\\Maxim.Business.csproj|solutionrelative:maxim.business\\services\\abstracts\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\Migrations\\20240524044314_CreateServicesTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Maxim.Data\\Migrations\\20240524044314_CreateServicesTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -206,119 +214,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MemberLoginVm.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\ViewModels\\MemberLoginVm.cs",
-              "RelativeDocumentMoniker": "Maxim\\ViewModels\\MemberLoginVm.cs",
-              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\ViewModels\\MemberLoginVm.cs",
-              "RelativeToolTip": "Maxim\\ViewModels\\MemberLoginVm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "DocumentIndex": 0,
+              "Title": "20240524070527_CreateSettingsTables.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\Migrations\\20240524070527_CreateSettingsTables.cs",
+              "RelativeDocumentMoniker": "Maxim.Data\\Migrations\\20240524070527_CreateSettingsTables.cs",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\Migrations\\20240524070527_CreateSettingsTables.cs",
+              "RelativeToolTip": "Maxim.Data\\Migrations\\20240524070527_CreateSettingsTables.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T06:20:23.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Maxim\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Maxim\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAABcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T06:19:49.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Maxim\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Maxim\\Views\\Account\\Register.cshtml",
-              "ViewState": "AQIAADcAAAAAAAAAAAAawFMAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T06:11:28.547Z"
+              "WhenOpened": "2024-05-24T07:05:27.307Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Maxim\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Maxim\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAA4wGYAAAAtAAAA",
+              "Title": "Setting.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Core\\Models\\Setting.cs",
+              "RelativeDocumentMoniker": "Maxim.Core\\Models\\Setting.cs",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Core\\Models\\Setting.cs",
+              "RelativeToolTip": "Maxim.Core\\Models\\Setting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T06:10:48.513Z"
+              "WhenOpened": "2024-05-24T07:01:28.536Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MemberRegisterVm.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\ViewModels\\MemberRegisterVm.cs",
-              "RelativeDocumentMoniker": "Maxim\\ViewModels\\MemberRegisterVm.cs",
-              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\ViewModels\\MemberRegisterVm.cs",
-              "RelativeToolTip": "Maxim\\ViewModels\\MemberRegisterVm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T06:09:09.96Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "Maxim\\Areas\\Admin\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAmwFMAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T05:47:06.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Maxim\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAACsAAAAAAAAAAAD4v0EAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T05:01:14.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Helper.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Extensions\\Helper.cs",
-              "RelativeDocumentMoniker": "Maxim.Business\\Extensions\\Helper.cs",
-              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Extensions\\Helper.cs",
-              "RelativeToolTip": "Maxim.Business\\Extensions\\Helper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:46:28.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Maxim\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Maxim\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T04:01:29.133Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "IServiceRepository.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Core\\RepositoryAbstracts\\IServiceRepository.cs",
               "RelativeDocumentMoniker": "Maxim.Core\\RepositoryAbstracts\\IServiceRepository.cs",
@@ -331,19 +257,220 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "ServiceController.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Controllers\\ServiceController.cs",
               "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Controllers\\ServiceController.cs",
               "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Controllers\\ServiceController.cs",
               "RelativeToolTip": "Maxim\\Areas\\Admin\\Controllers\\ServiceController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T05:06:09.915Z"
+              "WhenOpened": "2024-05-24T05:06:09.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Maxim.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "Maxim.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:37:16.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Maxim.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "Maxim.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:34:24.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\RepositoryConcretes\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "Maxim.Data\\RepositoryConcretes\\ServiceRepository.cs",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\RepositoryConcretes\\ServiceRepository.cs",
+              "RelativeToolTip": "Maxim.Data\\RepositoryConcretes\\ServiceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:39:44.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Maxim.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Maxim.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:36:14.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Services\\Concretes\\ServiceService.cs",
+              "RelativeDocumentMoniker": "Maxim.Business\\Services\\Concretes\\ServiceService.cs",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Services\\Concretes\\ServiceService.cs",
+              "RelativeToolTip": "Maxim.Business\\Services\\Concretes\\ServiceService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA1wDgAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:45:51.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Services\\Abstracts\\IServiceService.cs",
+              "RelativeDocumentMoniker": "Maxim.Business\\Services\\Abstracts\\IServiceService.cs",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Services\\Abstracts\\IServiceService.cs",
+              "RelativeToolTip": "Maxim.Business\\Services\\Abstracts\\IServiceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:44:03.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Maxim\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Maxim\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAcwGYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:10:48.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "RelativeToolTip": "Maxim\\Areas\\Admin\\Views\\Service\\Index.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAADQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:07:05.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Maxim\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Maxim\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T04:01:29.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Extensions\\Helper.cs",
+              "RelativeDocumentMoniker": "Maxim.Business\\Extensions\\Helper.cs",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Extensions\\Helper.cs",
+              "RelativeToolTip": "Maxim.Business\\Extensions\\Helper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:46:28.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Maxim\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAD4v0EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T05:01:14.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Maxim\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAmwFMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T05:47:06.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MemberRegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\ViewModels\\MemberRegisterVm.cs",
+              "RelativeDocumentMoniker": "Maxim\\ViewModels\\MemberRegisterVm.cs",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\ViewModels\\MemberRegisterVm.cs",
+              "RelativeToolTip": "Maxim\\ViewModels\\MemberRegisterVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:09:09.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Maxim\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Maxim\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAawFMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:11:28.547Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Maxim\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Maxim\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC4AAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T06:19:49.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MemberLoginVm.cs",
+              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\ViewModels\\MemberLoginVm.cs",
+              "RelativeDocumentMoniker": "Maxim\\ViewModels\\MemberLoginVm.cs",
+              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\ViewModels\\MemberLoginVm.cs",
+              "RelativeToolTip": "Maxim\\ViewModels\\MemberLoginVm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:20:23.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -355,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\Account\\Login.cshtml",
@@ -367,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Program.cs",
               "RelativeDocumentMoniker": "Maxim\\Program.cs",
@@ -379,31 +506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\RepositoryConcretes\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Maxim.Data\\RepositoryConcretes\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\RepositoryConcretes\\GenericRepository.cs",
-              "RelativeToolTip": "Maxim.Data\\RepositoryConcretes\\GenericRepository.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:37:16.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ServiceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\RepositoryConcretes\\ServiceRepository.cs",
-              "RelativeDocumentMoniker": "Maxim.Data\\RepositoryConcretes\\ServiceRepository.cs",
-              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\RepositoryConcretes\\ServiceRepository.cs",
-              "RelativeToolTip": "Maxim.Data\\RepositoryConcretes\\ServiceRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:39:44.241Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Maxim\\Views\\Home\\Index.cshtml",
@@ -415,7 +518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Maxim\\Controllers\\HomeController.cs",
@@ -427,19 +530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Core\\RepositoryAbstracts\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Maxim.Core\\RepositoryAbstracts\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Core\\RepositoryAbstracts\\IGenericRepository.cs",
-              "RelativeToolTip": "Maxim.Core\\RepositoryAbstracts\\IGenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:34:24.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 25,
               "Title": "AdminLoginVm.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\ViewModels\\AdminLoginVm.cs",
               "RelativeDocumentMoniker": "Maxim\\ViewModels\\AdminLoginVm.cs",
@@ -451,7 +542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "20240524054453_CreateUsersServicesTables.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\Migrations\\20240524054453_CreateUsersServicesTables.cs",
               "RelativeDocumentMoniker": "Maxim.Data\\Migrations\\20240524054453_CreateUsersServicesTables.cs",
@@ -463,7 +554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "20240524054109_CreateUsersTable.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\Migrations\\20240524054109_CreateUsersTable.cs",
               "RelativeDocumentMoniker": "Maxim.Data\\Migrations\\20240524054109_CreateUsersTable.cs",
@@ -474,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "20240524054208_CreateUsersTables.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\Migrations\\20240524054208_CreateUsersTables.cs",
               "RelativeDocumentMoniker": "Maxim.Data\\Migrations\\20240524054208_CreateUsersTables.cs",
@@ -485,7 +576,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "20240524054259_somechange.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\Migrations\\20240524054259_somechange.cs",
               "RelativeDocumentMoniker": "Maxim.Data\\Migrations\\20240524054259_somechange.cs",
@@ -496,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "20240524054328_somechanges.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\Migrations\\20240524054328_somechanges.cs",
               "RelativeDocumentMoniker": "Maxim.Data\\Migrations\\20240524054328_somechanges.cs",
@@ -507,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Core\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Maxim.Core\\Models\\AppUser.cs",
@@ -519,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Views\\Service\\Update.cshtml",
               "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\Service\\Update.cshtml",
@@ -531,19 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Maxim.Data\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "Maxim.Data\\DAL\\AppDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:36:14.475Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Views\\Service\\Delete.cshtml",
               "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\Service\\Delete.cshtml",
@@ -555,19 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ServiceService.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Services\\Concretes\\ServiceService.cs",
-              "RelativeDocumentMoniker": "Maxim.Business\\Services\\Concretes\\ServiceService.cs",
-              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Services\\Concretes\\ServiceService.cs",
-              "RelativeToolTip": "Maxim.Business\\Services\\Concretes\\ServiceService.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAiwCgAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:45:51.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Core\\Models\\Service.cs",
               "RelativeDocumentMoniker": "Maxim.Core\\Models\\Service.cs",
@@ -579,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Views\\Service\\Create.cshtml",
               "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\Service\\Create.cshtml",
@@ -591,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 39,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "Maxim\\ScaffoldingReadMe.txt",
@@ -603,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -615,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 38,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -627,7 +694,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -639,19 +706,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Views\\Service\\Index.cshtml",
-              "RelativeDocumentMoniker": "Maxim\\Areas\\Admin\\Views\\Service\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Areas\\Admin\\Views\\Service\\Index.cshtml",
-              "RelativeToolTip": "Maxim\\Areas\\Admin\\Views\\Service\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwCEAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-24T05:07:05.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 40,
               "Title": "EntityNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Exceptions\\EntityNotFoundException.cs",
               "RelativeDocumentMoniker": "Maxim.Business\\Exceptions\\EntityNotFoundException.cs",
@@ -663,7 +718,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 41,
               "Title": "ImageFileException.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Exceptions\\ImageFileException.cs",
               "RelativeDocumentMoniker": "Maxim.Business\\Exceptions\\ImageFileException.cs",
@@ -675,7 +730,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "Maxim.Business.csproj",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Maxim.Business.csproj",
               "RelativeDocumentMoniker": "Maxim.Business\\Maxim.Business.csproj",
@@ -687,7 +742,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Maxim\\Views\\_ViewImports.cshtml",
@@ -699,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "FileeNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Exceptions\\FileeNotFoundException.cs",
               "RelativeDocumentMoniker": "Maxim.Business\\Exceptions\\FileeNotFoundException.cs",
@@ -711,7 +766,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 44,
               "Title": "FileSizeException.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Exceptions\\FileSizeException.cs",
               "RelativeDocumentMoniker": "Maxim.Business\\Exceptions\\FileSizeException.cs",
@@ -723,7 +778,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "FileContentTypeException.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Exceptions\\FileContentTypeException.cs",
               "RelativeDocumentMoniker": "Maxim.Business\\Exceptions\\FileContentTypeException.cs",
@@ -735,19 +790,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "IServiceService.cs",
-              "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Services\\Abstracts\\IServiceService.cs",
-              "RelativeDocumentMoniker": "Maxim.Business\\Services\\Abstracts\\IServiceService.cs",
-              "ToolTip": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Services\\Abstracts\\IServiceService.cs",
-              "RelativeToolTip": "Maxim.Business\\Services\\Abstracts\\IServiceService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:44:03.152Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "20240524044314_CreateServicesTables.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\Migrations\\20240524044314_CreateServicesTables.cs",
               "RelativeDocumentMoniker": "Maxim.Data\\Migrations\\20240524044314_CreateServicesTables.cs",
@@ -758,7 +801,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\appsettings.json",
               "RelativeDocumentMoniker": "Maxim\\appsettings.json",
@@ -770,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Core\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Maxim.Core\\Models\\BaseEntity.cs",
@@ -782,7 +825,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Maxim\\Views\\_ViewStart.cshtml",
