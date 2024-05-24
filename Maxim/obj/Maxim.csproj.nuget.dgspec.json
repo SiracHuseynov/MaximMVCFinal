@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim\\Maxim.csproj": {}
+    "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Maxim.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Business\\Maxim.Business.csproj": {
+    "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Maxim.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Business\\Maxim.Business.csproj",
+        "projectUniqueName": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Maxim.Business.csproj",
         "projectName": "Maxim.Business",
-        "projectPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Business\\Maxim.Business.csproj",
+        "projectPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Maxim.Business.csproj",
         "packagesPath": "C:\\Users\\ca.r213.15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Business\\obj\\",
+        "outputPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ca.r213.15\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Data\\Maxim.Data.csproj": {
-                "projectPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Data\\Maxim.Data.csproj"
+              "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\Maxim.Data.csproj": {
+                "projectPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\Maxim.Data.csproj"
               }
             }
           }
@@ -61,6 +61,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.app": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -69,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Core\\Maxim.Core.csproj": {
+    "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Core\\Maxim.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Core\\Maxim.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Core\\Maxim.Core.csproj",
         "projectName": "Maxim.Core",
-        "projectPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Core\\Maxim.Core.csproj",
+        "projectPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Core\\Maxim.Core.csproj",
         "packagesPath": "C:\\Users\\ca.r213.15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Core\\obj\\",
+        "outputPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ca.r213.15\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,6 +113,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "X.PagedList.Mvc.Core": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -130,14 +147,14 @@
         }
       }
     },
-    "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Data\\Maxim.Data.csproj": {
+    "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\Maxim.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Data\\Maxim.Data.csproj",
+        "projectUniqueName": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\Maxim.Data.csproj",
         "projectName": "Maxim.Data",
-        "projectPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Data\\Maxim.Data.csproj",
+        "projectPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\Maxim.Data.csproj",
         "packagesPath": "C:\\Users\\ca.r213.15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Data\\obj\\",
+        "outputPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ca.r213.15\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -155,8 +172,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Core\\Maxim.Core.csproj": {
-                "projectPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Core\\Maxim.Core.csproj"
+              "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Core\\Maxim.Core.csproj": {
+                "projectPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Core\\Maxim.Core.csproj"
               }
             }
           }
@@ -211,14 +228,14 @@
         }
       }
     },
-    "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim\\Maxim.csproj": {
+    "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Maxim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim\\Maxim.csproj",
+        "projectUniqueName": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Maxim.csproj",
         "projectName": "Maxim",
-        "projectPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim\\Maxim.csproj",
+        "projectPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\Maxim.csproj",
         "packagesPath": "C:\\Users\\ca.r213.15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim\\obj\\",
+        "outputPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ca.r213.15\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -236,8 +253,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Business\\Maxim.Business.csproj": {
-                "projectPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximFinal\\Maxim.Business\\Maxim.Business.csproj"
+              "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Maxim.Business.csproj": {
+                "projectPath": "C:\\Users\\ca.r213.15\\Desktop\\MaximMVCFinal\\Maxim.Business\\Maxim.Business.csproj"
               }
             }
           }
@@ -262,6 +279,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
             }
           },
           "imports": [

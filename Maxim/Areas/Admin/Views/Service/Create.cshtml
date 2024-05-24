@@ -1,0 +1,30 @@
+﻿@using Maxim.Core.Models
+@model Service
+
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            <form method="post" asp-action="Create" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Title</label>
+                    <input asp-for="Title" class="form-control" id="exampleInputEmail1"placeholder="Title">
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail2">Description</label>
+                    <input asp-for="Description" class="form-control" id="exampleInputEmail2" placeholder="Description">
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail3">Image</label>
+                    <input asp-for="ImageFile" class="form-control" id="exampleInputEmail3">
+                    <span asp-validation-for="ImageFile" class="text-danger"></span>
+                </div>
+
+
+
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
